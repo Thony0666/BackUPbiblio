@@ -1,0 +1,77 @@
+  'idInstitutionBase': '1',
+  'firstName': 'Riana',
+  'lastName': 'Rahajary',
+  'birthday': '2001-07-14',
+  'sex': 'Male',
+  'phoneNumber': '0340507600',
+  'cin': '1201902901',
+  'cinDate': '2019-01-01',
+  'idRegion': '6',
+  'officePost': 'Dev',
+  'email': 'taf112316@gmail.com',
+  'password': '1234',
+  'username': 'riana',
+  'level': '10',
+  'idProfession': '1',
+  'idHandicap': '1'
+
+ato no ato ny composant crée thony
+rakoto02@yop.mc-fly.be  zazabe02
+hery02@yop.mc-fly.be  zazabe02
+njaka02@yop.mc-fly.be  zazabe02
+naivo02@yop.mc-fly.be  zazabe02
+
+lita02@yop.mc-fly.be  zazabe02
+
+herizo02@whatagarbage.com  zazabe02
+
+marina02@whatagarbage.com  zazabe02
+malasiga0@whatagarbage.com  zazabe022
+feno02@whatagarbage.com  zazabe02
+
+fandina02@zorg.fr.nf  zazabe02
+latabatra@poubelle-du.net  zazabe0202
+jinnovoissowei-7251@yopmail.com zazabe02
+lahatrelosu-2013@yopmail.com  zazabe02
+
+bragrissorozei-5198@yopmail.com  zazabe02
+weregrigigru-7291@yopmail.com  zazabe02
+
+detreifriquoucri-2391@yopmail.com  zazabe02
+
+https://www.facebook.com/100028254395867/posts/1034118474557486/?substory_index=1034118474557486&app=fbl
+https://www.facebook.com/100028254395867/posts/1034118474557486/?substory_index=1034118474557486&app=fbl
+
+ "expirationDate": "2024-01-26 00:00:00.000",
+            "createdAt": "2024-01-26 11:58:51.000",
+            "updatedAt": "2024-01-26 11:58:51.000",
+            "id": 3,
+            "idInfoUserTafomihaavo": 5,
+            "idInstitutionBase": 1,
+            "institutionBaseRegionName": "Alaotra-Mangoro",
+            "institutionBaseName": "Custom Association",
+         
+            "phoneNumber": 340507600,
+            "idRegion": 3,
+            "homeAddress": null,
+            "officePost": "Dev",
+            "status": 0,
+            "level": 10,
+            "idProfession": 1,
+            "idHandicap": 1,
+
+
+
+
+
+               "firstName": "Riana",
+            "lastName": "Rahajary",
+            "birthday": "2001-07-14",
+            "sex": "Male",
+            "cin": 1201902901,
+            "cinDate": "2019-01-01",
+            "professionName": "Étudiant",
+            "handicapName": "Aucun"
+            "regionName": "Analamanga",
+
+
